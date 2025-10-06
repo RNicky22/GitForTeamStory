@@ -18,3 +18,11 @@ At that moment, the unknown alien warped to the gate of the castle with a beam o
 ![cat](./img/cat.png)
 
 And he was shocked to see a cute cat lying infront of him, guarding the gate.
+
+The cat gives the alien a treasure map, and the alien happily takes the map from the cat. 
+
+![map](./img/map.png)
+
+The alien then follows the map until he meets a detective.
+
+![detective](./img/detective.png)
